@@ -124,7 +124,7 @@ const model = ref([
             {
                 label: 'View Nuxt Source',
                 icon: 'pi pi-fw pi-github',
-                url: 'https://github.com/braintapper/sakai-nuxt',
+                url: 'https://github.com/braintapper/sakai-4-primevue-4-nuxt-4',
                 target: '_blank'
             },
             {
