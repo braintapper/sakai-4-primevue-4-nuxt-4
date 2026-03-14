@@ -2,7 +2,12 @@
 
 ## Introduction
 
-Sakai-vue 4.3.0 admin dashboard template from primefaces port to nuxt 3.
+Sakai-vue admin dashboard template from primefaces port to nuxt 4. Based on andreu92/sakai-nuxt's work to get the dashboard to work on Nuxt 3
+
+Note this is not intended to be an elegant solution, it is the bare minimum to get the template working on Nuxt 4 for learning purposes. It was "vibe-fixed" so that it would **just run**.
+
+This repo is not maintained and may not get bug fixes. It is available AS IS.
+
 
 ## Setup
 
